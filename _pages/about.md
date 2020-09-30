@@ -6,7 +6,7 @@ tags: [robotics, open]
 modified: 2014-02-16
 ---
 
-O'Botics, named for **o**pen ro**botics**, is a site created for anybody interested in robotics and that wishes to collaborate on robot designs. The goal is to develope open robots that are cheap, reliable, accessible, and awesome!
+O'Botics, named for **o**pen ro**botics**, is a site created for anybody interested in robotics and that wishes to collaborate on robot designs. The goal is to develop open robots that are cheap, reliable, accessible, and awesome!
 
 O'Botics was created by [Rowland O'Flaherty](http://rowlandoflaherty.com) in early 2014 as result of [Coursera MOOC "Control of Mobile Robots"](https://www.coursera.org/course/conrob). The course, taught by Georgia Tech Professor [Magnus Egerstedt](http://users.ece.gatech.edu/~magnus/),  guides students on how to control mobile robots (i.e. enable robots to move in a desirable way). To connect the theory with application the course also includes a software simulation and hardware component. These components allow the students to use the theory learned in lectures in simulation with the Matlab simulator [Sim.I.am](http://jdelacroix.github.io/simiam/) (written by [JP de la Croix](http://jpdelacroix.com/)) and in the real world with a robot known as the [QuickBot]({{ site.url }}/robots/quickbot/) (designed by [Rowland O'Flaherty](http://rowlandoflaherty.com)).
 
@@ -14,7 +14,7 @@ The 7-week course was a great success. More than 32,000 students registered and 
 
 The site is completely open. All material is maintained through a GitHub organization called "[o-botics](https://github.com/o-botics)". Anyone can access, use, and contribute to the material in this organization. Even this very site is hosted on GitHub with a Git [repo](https://github.com/o-botics/o-botics.github.io) using [Jekyll](http://jekyllrb.com/) to generate statics webpages.
 
-Discussions can take place in the comments area of each page using the blog hosting service [Disqus](http://disqus.com/) or in the issues and wiki area of each repository in the GitHub organization.
+Discussions can take place in the comment area of each page using the blog hosting service [Disqus](http://disqus.com/) or in the issues and wiki area of each repository in the GitHub organization.
 
 Enjoy!
 
